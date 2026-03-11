@@ -7,6 +7,7 @@ import Index from "./pages/Index";
 import Evaluation from "./pages/Evaluation";
 import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
+import Todo from "./pages/Todo";
 
 const queryClient = new QueryClient();
 
